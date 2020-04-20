@@ -1,0 +1,2 @@
+# Mood-classification-of-songs-based-on-lyrics
+The aim of this project is to classify the mood/sentiment of hindi songs from their lyrics. We are going to classify a song by training and testing the lyrics into different classes of moods. The moods we are going to classify the songs into are : Romantic Sad Party For classification of songs, we have used different inbuilt Machine Learning classifiers available in the sklearn library of Python We are also considering the artists’ names as the input feature for the classifiers along with the song lyrics.
